@@ -63,6 +63,7 @@ GEM
       equalizer (~> 0.0, >= 0.0.9)
 
 PLATFORMS
+  ruby
   x86-mingw32
 
 DEPENDENCIES
@@ -72,4 +73,4 @@ DEPENDENCIES
   grape-swagger-entity
 
 BUNDLED WITH
-   1.10.6
+   1.11.2
